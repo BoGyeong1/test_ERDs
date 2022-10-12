@@ -244,7 +244,7 @@
               "notNull": true
             },
             "ui": {
-              "active": true,
+              "active": false,
               "pk": false,
               "fk": true,
               "pfk": false,
@@ -329,7 +329,7 @@
               "notNull": true
             },
             "ui": {
-              "active": true,
+              "active": false,
               "pk": true,
               "fk": false,
               "pfk": false,
