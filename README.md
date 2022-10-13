@@ -5,4 +5,4 @@ ERD 연습
 - [Users_Auths](https://github.com/BoGyeong1/test_ERDs/blob/master/Users_Auths/Users_Auths.png)
 - [notice](https://github.com/BoGyeong1/test_ERDs/blob/master/notice/notice.png)
 - [study](https://github.com/BoGyeong1/test_ERDs/blob/master/study/study.png)
-- [good_influences](https://github.com/BoGyeong1/test_ERDs/blob/master/good_influences.png)
+- [good_influences](https://github.com/BoGyeong1/test_ERDs/blob/master/good_influences/good_influences.png)
