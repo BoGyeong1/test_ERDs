@@ -7,3 +7,4 @@ ERD 연습
 - [study](https://github.com/BoGyeong1/test_ERDs/blob/master/study/study.png)
 - [good_influences](https://github.com/BoGyeong1/test_ERDs/blob/master/good_influences/good_influences.png)
 - [bicycle_bom](https://github.com/BoGyeong1/test_ERDs/blob/master/bicycle/bicycle_bom.png)
+- [multi_board](https://github.com/BoGyeong1/test_ERDs/blob/master/multi_board/multi_board.png)
